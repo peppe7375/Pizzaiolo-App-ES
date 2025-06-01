@@ -1,4 +1,4 @@
-Pizzaiolo – Tu camino hacia la pizza perfecta
+Pizzaiolo-App – Tu camino hacia la pizza perfecta
 
 Bienvenido a "Pizzaiolo", la aplicación definitiva para todos los que aman la pizza y quieren crear sus propias obras maestras. Ya seas un pizzero aficionado o un profesional en busca de la masa perfecta, Pizzaiolo te ofrece todo lo que necesitas para planificar, optimizar y compartir tus recetas.
 
